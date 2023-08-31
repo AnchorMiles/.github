@@ -26,5 +26,6 @@ We are up for taking on brand-new, engaging, and challenging tasks. Contact us i
 
 - [Website](https://anchormiles.com)
 - [Email](mailto:getintouchdesk@gmail.com)
+- [Facebook](https://www.facebook.com/AnchorMilesSoftware)
 - [LinkedIn](https://www.linkedin.com/company/anchormiles)
 - [Twitter](https://twitter.com/anchormiles)
