@@ -24,7 +24,7 @@ We are up for taking on brand-new, engaging, and challenging tasks. Contact us i
 
 ## Contact
 
-- [Website](https://anchormiles.com)
+- [Website](https://anchormiles.vercel.app/)
 - [Email](mailto:getintouchdesk@gmail.com)
 - [Facebook](https://www.facebook.com/AnchorMilesSoftware)
 - [LinkedIn](https://www.linkedin.com/company/anchormiles)
