@@ -21,6 +21,7 @@ We are up for taking on brand-new, engaging, and challenging tasks. Contact us i
 - UI/UX Design
 - Branding & Digital Marketing
 - Search Engine Optimization (SEO)
+- Business ideas development and pitching
 
 ## Contact
 
